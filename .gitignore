@@ -1,0 +1,32 @@
+# Rust
+/target
+Cargo.lock
+
+# 环境变量文件（不要提交真实的.env文件）
+.env
+
+# Serena配置
+.serena/
+
+# AI相关目录
+.claude/
+.cursor/
+.aider/
+.continue/
+.serena/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# 临时文件
+*.tmp
+*.log
+error.txt
+output.txt

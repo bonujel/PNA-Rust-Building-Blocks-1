@@ -1,0 +1,3 @@
+Hello Rust!
+This is a test file for the meow CLI application.
+Learning Rust is fun!
